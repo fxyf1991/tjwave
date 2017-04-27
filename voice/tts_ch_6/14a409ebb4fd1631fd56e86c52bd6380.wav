@@ -1,0 +1,13 @@
+--2017-03-16 10:22:27--  http://voisfs.cyberon.com.tw/cloud_tts_mp3/14a409ebb4fd1631fd56e86c52bd6380.wav
+Resolving voisfs.cyberon.com.tw (voisfs.cyberon.com.tw)... 52.219.68.138
+Connecting to voisfs.cyberon.com.tw (voisfs.cyberon.com.tw)|52.219.68.138|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116524 (114K) [audio/x-wav]
+Saving to: ‘14a409ebb4fd1631fd56e86c52bd6380.wav’
+
+     0K .......... .......... .......... .......... .......... 43%  384K 0s
+    50K .......... .......... .......... .......... .......... 87%  775K 0s
+   100K .......... ...                                        100% 2.39M=0.2s
+
+2017-03-16 10:22:27 (568 KB/s) - ‘14a409ebb4fd1631fd56e86c52bd6380.wav’ saved [116524/116524]
+

@@ -1,0 +1,588 @@
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Init Humix Sense. Using Think URL:http://tjbot-humix.mybluemix.net","time":"2017-02-09T03:57:35.602Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T03:57:35.676Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T03:57:35.701Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T03:57:36.381Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:39.060Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T03:57:39.061Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"","time":"2017-02-09T03:57:42.878Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T03:57:43.893Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T03:57:46.648Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:46.800Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T03:57:46.801Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"","time":"2017-02-09T03:57:48.841Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T03:57:49.661Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T03:57:49.858Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T03:57:52.664Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:52.820Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T03:57:52.821Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"","time":"2017-02-09T03:57:54.868Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T03:57:55.668Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T03:57:55.877Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T03:57:58.669Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:58.772Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1202,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T03:57:58.772Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"Init Humix Sense. Using Think URL:http://tjbot-humix.mybluemix.net","time":"2017-02-09T03:58:30.896Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T03:58:30.969Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T03:58:30.993Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T03:58:31.417Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:58:33.872Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T03:58:33.873Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":50,"msg":"","time":"2017-02-09T03:58:50.167Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T03:58:51.180Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:58:54.062Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T03:58:54.063Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1330,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T03:58:56.968Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":30,"msg":"Init Humix Sense. Using Think URL:http://tjbot-humix.mybluemix.net","time":"2017-02-09T04:05:08.600Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T04:05:08.672Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:05:08.696Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:05:11.558Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T04:05:11.560Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:05:11.564Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:05:14.522Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:05:14.654Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:05:17.658Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1430,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:05:20.658Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":30,"msg":"Init Humix Sense. Using Think URL:http://tjbot-humix.mybluemix.net","time":"2017-02-09T04:06:13.899Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T04:06:13.969Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:06:13.992Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:06:16.786Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T04:06:16.788Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:06:16.791Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:06:19.828Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:06:19.956Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:06:22.959Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:06:25.958Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1487,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:06:28.963Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1548,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T04:07:01.485Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1548,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T04:07:01.611Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1548,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:07:01.636Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1548,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:07:04.442Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1548,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T04:07:04.444Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1548,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:07:04.447Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T04:08:10.715Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T04:08:10.839Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:08:10.863Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:08:13.658Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T04:08:13.659Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:08:13.663Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:08:16.706Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:08:16.770Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:08:19.771Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:08:22.773Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:08:25.774Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T04:08:27.171Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"","time":"2017-02-09T04:08:51.005Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:08:52.031Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:08:54.857Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T04:08:54.859Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:08:57.788Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"","time":"2017-02-09T04:09:08.729Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:09:09.746Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:09:12.572Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T04:09:12.573Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:09:15.802Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"","time":"2017-02-09T04:09:18.398Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:09:19.408Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:09:22.180Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T04:09:22.183Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:09:24.815Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"","time":"2017-02-09T04:09:34.898Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:09:35.908Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:09:38.743Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T04:09:38.745Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:09:39.825Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1615,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:09:42.826Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T04:34:00.602Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T04:34:00.728Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:34:00.752Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:34:03.539Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T04:34:03.540Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:34:03.544Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:34:05.532Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:34:06.659Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:34:09.660Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:34:12.664Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T04:34:14.131Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"","time":"2017-02-09T04:34:48.797Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:34:49.812Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:34:52.585Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T04:34:52.586Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:34:53.686Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1997,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:34:56.686Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T04:36:11.478Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module","time":"2017-02-09T04:36:11.618Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:36:11.642Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:36:14.420Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T04:36:14.421Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T04:36:14.425Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T04:36:16.017Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":50,"msg":"","time":"2017-02-09T04:36:20.970Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:36:21.994Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:36:24.841Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T04:36:24.842Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:36:28.549Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":50,"msg":"","time":"2017-02-09T04:36:30.032Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module] spawned","time":"2017-02-09T04:36:31.041Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:36:33.915Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T04:36:33.916Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2095,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T04:36:37.571Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T05:22:45.618Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"loading module : /home/pi/humix-sense/modules/core/humix-conversation-module.bak","time":"2017-02-09T05:22:45.742Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module.bak] spawned","time":"2017-02-09T05:22:45.766Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T05:22:46.989Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:22:48.617Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T05:22:48.618Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":50,"msg":"","time":"2017-02-09T05:23:02.975Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"process for module [/home/pi/humix-sense/modules/core/humix-conversation-module.bak] spawned","time":"2017-02-09T05:23:03.990Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:23:06.807Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T05:23:06.809Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:23:08.678Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":2269,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:23:11.678Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T05:28:52.670Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T05:28:53.683Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:29:37.933Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T05:29:37.934Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:29:45.788Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:29:48.802Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:29:51.805Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:29:54.808Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:29:57.810Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:30:00.814Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8703,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:30:03.817Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T05:39:21.935Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":50,"msg":"Connection to Think is broken, message: ","time":"2017-02-09T05:39:24.959Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":50,"msg":"Connection to Think is broken, message: ","time":"2017-02-09T05:39:27.970Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:39:28.467Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T05:39:28.468Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T05:39:28.471Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:39:35.986Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T05:39:35.988Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:39:39.000Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8895,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T05:39:39.002Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T05:41:44.109Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T05:41:45.090Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:41:50.404Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T05:41:50.405Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:37.217Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:40.220Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:43.221Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:46.224Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:49.227Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:52.230Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:55.233Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:42:58.236Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:43:01.240Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":8962,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T05:43:04.243Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9042,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T05:49:37.348Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9042,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T05:49:38.729Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9042,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:49:47.626Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9042,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T05:49:47.627Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9118,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T05:55:45.000Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9118,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T05:55:46.027Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9118,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:55:52.143Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9118,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T05:55:52.144Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T06:00:36.793Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":50,"msg":"Connection to Think is broken, message: ","time":"2017-02-09T06:00:39.817Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":50,"msg":"Connection to Think is broken, message: ","time":"2017-02-09T06:00:42.829Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:00:43.044Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T06:00:43.045Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T06:00:43.049Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T06:00:47.680Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T06:00:48.859Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T06:00:51.862Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T06:00:54.866Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9178,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T06:00:55.186Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9243,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T06:04:12.421Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9243,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T06:04:13.372Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9243,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:04:20.429Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9243,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T06:04:20.430Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9304,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T06:05:24.968Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9304,"level":50,"msg":"Connection to Think is broken, message: ","time":"2017-02-09T06:05:27.992Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9304,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:05:29.784Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9304,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T06:05:29.785Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9304,"level":50,"msg":"Connection to Think is broken, message: [object Object]","time":"2017-02-09T06:05:29.789Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9304,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T06:05:34.081Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-09T06:11:55.505Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-09T06:11:56.973Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:12:06.116Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-09T06:12:06.118Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:18.648Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:21.649Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:24.653Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:27.658Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:30.661Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:33.664Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:36.667Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:39.670Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:42.673Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:45.677Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:48.681Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:51.685Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:54.688Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:13:57.691Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:00.695Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:03.694Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:06.698Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:09.700Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:12.702Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:15.704Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:18.708Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:21.711Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:24.719Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:27.722Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:30.725Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:33.727Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:36.729Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:39.730Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:42.731Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:45.735Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:48.738Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:51.741Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:54.744Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:14:57.747Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:00.750Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:03.753Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:06.756Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:09.759Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:12.762Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:15.768Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:18.774Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:21.778Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:24.782Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:27.794Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:30.804Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:33.805Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:36.807Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:39.809Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:42.811Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:45.813Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:48.814Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:51.818Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:54.821Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:15:57.718Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T06:15:57.719Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:15:57.822Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:00.826Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:21.842Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:24.845Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:27.848Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:30.851Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:33.855Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:36.857Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:39.860Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:42.862Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:45.864Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:16:46.402Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-09T06:16:46.403Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:16:48.868Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:09.935Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:12.938Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:15.941Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:18.943Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:21.947Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:24.951Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:27.952Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:30.955Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:33.965Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:36.983Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:40.006Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:43.018Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:46.040Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:49.069Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:52.090Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:55.101Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:18:58.104Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:01.107Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:04.109Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:07.112Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:10.115Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:13.116Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:16.118Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:19.121Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:22.124Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:25.127Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:28.129Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:31.131Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:34.136Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:37.138Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:40.141Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:43.143Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:46.146Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:49.149Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:52.151Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:55.153Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:19:58.156Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:01.158Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:04.161Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:07.163Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:10.165Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:13.168Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:16.170Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:19.172Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:22.176Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:25.179Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:28.182Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:31.185Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:34.187Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:37.188Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:40.190Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:43.193Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:46.196Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:49.199Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:52.202Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:55.204Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:20:58.208Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:01.211Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:04.214Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:07.216Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:10.220Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:13.223Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:16.226Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:19.229Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:22.232Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:25.234Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:28.235Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:31.239Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:34.243Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:37.247Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:40.250Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:43.253Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:46.255Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:49.257Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:52.260Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:55.263Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:21:58.265Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:01.267Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:04.270Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:07.271Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:10.273Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:13.280Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:16.287Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:19.290Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:22.292Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:25.294Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:28.296Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:31.299Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:34.302Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:37.305Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:40.307Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:43.308Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:46.312Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:49.315Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:52.318Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:55.321Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:22:58.324Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:01.325Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:04.327Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:07.330Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:10.332Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:13.334Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:16.336Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:19.339Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:22.342Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:25.345Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:28.346Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:31.348Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:34.351Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:37.354Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:40.357Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:43.359Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:46.361Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:49.364Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:52.367Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:55.370Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:23:58.372Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:01.374Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:04.377Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:07.380Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:10.383Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:13.384Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:16.386Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:19.389Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:22.391Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:25.392Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:28.395Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:31.399Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:34.402Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:37.404Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:40.409Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:43.410Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:46.413Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:49.414Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:52.415Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:55.418Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:24:58.420Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:01.423Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:04.425Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:07.425Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:10.429Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:13.430Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:16.437Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:19.453Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:22.465Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:25.469Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:28.472Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:31.475Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:34.477Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:37.479Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:40.481Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:43.485Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:46.488Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:49.491Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:52.493Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:55.494Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:25:58.499Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:01.501Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:04.502Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:07.503Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:10.505Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:13.508Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:16.510Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:19.512Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:22.515Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:25.517Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:28.519Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:31.522Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:34.525Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:37.528Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:40.530Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:43.531Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:46.533Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:49.536Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:52.539Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:55.540Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:26:58.541Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:01.545Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:04.548Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:07.551Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:10.554Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:13.557Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:16.558Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:19.559Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:22.563Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:25.566Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:28.568Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:31.569Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:34.571Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:37.574Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:40.576Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:43.580Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:46.582Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:49.583Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:52.585Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:55.588Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:27:58.591Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:01.594Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:04.596Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:07.600Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:10.603Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:13.605Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:16.607Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:19.610Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:22.613Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:25.617Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:28.619Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:31.620Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:34.621Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:37.622Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:40.623Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:43.627Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:46.630Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:49.633Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:52.636Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:55.637Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:28:58.639Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:01.640Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:04.641Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:07.643Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:10.645Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:13.649Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:16.653Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:19.655Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:22.658Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:25.659Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:28.659Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:31.661Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:34.662Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:37.663Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:40.665Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:43.668Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:46.671Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:49.673Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":9382,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-09T06:29:52.676Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1257,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-10T07:14:17.296Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1257,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-10T07:14:18.315Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1257,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:14:32.478Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1257,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-10T07:14:32.479Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1257,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:15:07.410Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1257,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:15:10.414Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1257,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:15:13.419Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1319,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-10T07:15:32.263Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1319,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-10T07:15:33.637Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1319,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:15:40.860Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1319,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-10T07:15:40.861Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1319,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:16:19.366Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1319,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:16:22.366Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1319,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:16:25.370Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1394,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-10T07:18:14.772Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1394,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-10T07:18:15.786Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1394,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:18:22.065Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1394,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-10T07:18:22.066Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1021,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-10T07:22:10.106Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1021,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-10T07:22:11.178Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1021,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:22:20.464Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1021,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-10T07:22:20.465Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1021,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:22:27.161Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1021,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T07:22:54.196Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1253,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-10T13:47:11.337Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1253,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-10T13:47:13.061Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1253,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T13:47:32.325Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1253,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-10T13:47:32.326Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1253,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:48:31.463Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-10T13:52:51.855Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-10T13:52:53.643Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T13:53:12.920Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":30,"msg":"subscribing topic:humix.sense.humix-conversation-module.event.stt","time":"2017-02-10T13:53:12.921Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:36.029Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:39.020Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:42.023Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:45.025Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:48.028Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:51.031Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:54.034Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:54:57.035Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:00.039Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:03.040Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:06.044Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:09.046Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:12.049Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:15.052Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:18.055Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:21.056Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:24.062Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:27.064Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:30.067Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:33.070Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:36.073Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:39.076Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:42.079Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:45.083Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:48.085Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:51.087Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:54.091Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:55:57.094Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:00.097Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:03.103Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:06.104Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:09.108Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:12.110Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:15.112Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:18.117Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:21.121Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":30,"msg":"Receive registration :{\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T13:56:23.357Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":30,"msg":"Module [humix-conversation-module] already register. Skip","time":"2017-02-10T13:56:23.358Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:24.123Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:56:27.127Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":1360,"level":50,"msg":"connection with module humix-conversation-module failed","time":"2017-02-10T13:57:33.186Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":925,"level":30,"msg":"Init Humix Sense. Using Think URL:https://tjbot-humix.mybluemix.net","time":"2017-02-22T16:56:47.500Z","v":0}
+{"name":"Humix-Sense","hostname":"raspberrypi","pid":925,"level":30,"msg":"Connected SenseId humix-tj2 to Think successfully.","time":"2017-02-22T16:56:48.907Z","v":0}

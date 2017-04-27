@@ -1,0 +1,700 @@
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1226,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T03:57:38.898Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1226,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:39.018Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1226,"level":30,"msg":"module registration completed","time":"2017-02-09T03:57:39.071Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1248,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T03:57:46.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1248,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:46.760Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1248,"level":30,"msg":"module registration completed","time":"2017-02-09T03:57:46.807Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1270,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T03:57:52.675Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1270,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:52.782Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1270,"level":30,"msg":"module registration completed","time":"2017-02-09T03:57:52.827Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1292,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T03:57:58.626Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1292,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:57:58.730Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1292,"level":30,"msg":"module registration completed","time":"2017-02-09T03:57:58.779Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T03:58:33.727Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:58:33.832Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"module registration completed","time":"2017-02-09T03:58:33.884Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"access config","time":"2017-02-09T03:58:33.888Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Angela\"}}}","time":"2017-02-09T03:58:33.892Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T03:58:33.894Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T03:58:33.896Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T03:58:35.763Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T03:58:35.810Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T03:58:37.314Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"transit from init to listen","time":"2017-02-09T03:58:37.316Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T03:58:37.317Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1354,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T03:58:38.526Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T03:58:53.918Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T03:58:54.022Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"module registration completed","time":"2017-02-09T03:58:54.068Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"access config","time":"2017-02-09T03:58:54.073Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Angela\"}}}","time":"2017-02-09T03:58:54.077Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T03:58:54.078Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T03:58:54.080Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T03:58:55.961Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T03:58:55.994Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T03:58:56.991Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"transit from init to listen","time":"2017-02-09T03:58:56.993Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T03:58:56.994Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1379,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T03:58:57.884Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:05:11.369Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:05:11.519Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"module registration completed","time":"2017-02-09T04:05:11.570Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"access config","time":"2017-02-09T04:05:11.575Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:05:11.579Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:05:11.580Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:05:11.581Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T04:05:13.408Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T04:05:13.440Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T04:05:14.409Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:05:14.411Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:05:14.412Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1454,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:05:15.336Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:06:16.646Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:06:16.748Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"module registration completed","time":"2017-02-09T04:06:16.797Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"access config","time":"2017-02-09T04:06:16.802Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:06:16.806Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:06:16.807Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:06:16.809Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T04:06:18.649Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T04:06:18.695Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T04:06:19.709Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:06:19.711Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:06:19.712Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1511,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:06:21.106Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1572,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:07:04.304Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1572,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:07:04.404Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1572,"level":30,"msg":"module registration completed","time":"2017-02-09T04:07:04.453Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:08:13.518Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:08:13.619Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"module registration completed","time":"2017-02-09T04:08:13.669Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"access config","time":"2017-02-09T04:08:13.673Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:08:13.677Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:08:13.679Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:08:13.680Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T04:08:15.540Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T04:08:15.572Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T04:08:16.587Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:08:16.589Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:08:16.590Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:08:17.539Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T04:08:29.077Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T04:08:29.078Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1639,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T04:08:29.080Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:08:54.717Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:08:54.819Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"module registration completed","time":"2017-02-09T04:08:54.863Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"access config","time":"2017-02-09T04:08:54.868Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:08:54.872Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:08:54.873Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:08:54.875Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T04:08:56.734Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T04:08:56.768Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T04:08:57.784Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:08:57.786Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:08:57.787Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1664,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:08:58.715Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:09:12.431Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:09:12.533Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"module registration completed","time":"2017-02-09T04:09:12.580Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"access config","time":"2017-02-09T04:09:12.584Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:09:12.588Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:09:12.589Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:09:12.591Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T04:09:14.413Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T04:09:14.458Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T04:09:15.431Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:09:15.433Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:09:15.434Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1688,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:09:16.360Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:09:22.045Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:09:22.143Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"module registration completed","time":"2017-02-09T04:09:22.190Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"access config","time":"2017-02-09T04:09:22.195Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:09:22.199Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:09:22.200Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:09:22.202Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T04:09:24.006Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T04:09:24.051Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T04:09:25.017Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:09:25.019Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:09:25.020Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1712,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:09:26.195Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:09:38.605Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:09:38.705Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"module registration completed","time":"2017-02-09T04:09:38.749Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"access config","time":"2017-02-09T04:09:38.754Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"watson\",\"tts-engine\":\"itri\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"\",\"passwd\":\"\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:09:38.758Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:09:38.759Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:09:38.760Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: zh-CN_BroadbandModel","time":"2017-02-09T04:09:40.566Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"Using tts-engine:itri","time":"2017-02-09T04:09:40.611Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"loc":"ItriTTS","level":30,"msg":"init itri tts","time":"2017-02-09T04:09:41.578Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:09:41.580Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:09:41.581Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:09:43.006Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T04:09:53.992Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T04:09:53.994Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1736,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T04:09:53.996Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:34:03.400Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:34:03.499Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"module registration completed","time":"2017-02-09T04:34:03.550Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"access config","time":"2017-02-09T04:34:03.555Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:34:03.558Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:34:03.560Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:34:03.561Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T04:34:05.364Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T04:34:05.410Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T04:34:05.417Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:34:05.418Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:34:05.419Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:34:07.197Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T04:34:17.916Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T04:34:17.920Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2022,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T04:34:17.923Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:34:52.447Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:34:52.548Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"module registration completed","time":"2017-02-09T04:34:52.592Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"access config","time":"2017-02-09T04:34:52.597Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:34:52.601Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:34:52.602Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:34:52.603Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T04:34:54.428Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T04:34:54.460Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T04:34:54.469Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:34:54.470Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:34:54.471Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:34:55.443Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T04:35:06.966Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T04:35:06.968Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T04:35:06.970Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"loc":"WatsonSTT","level":50,"msg":"stt error, connection has problem","time":"2017-02-09T04:35:46.687Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2046,"loc":"WatsonSTT","level":30,"msg":"STT connection-closed, 1011 see the previous message for the error details.","time":"2017-02-09T04:35:46.900Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:36:14.281Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:36:14.381Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"module registration completed","time":"2017-02-09T04:36:14.431Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"access config","time":"2017-02-09T04:36:14.435Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:36:14.439Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:36:14.440Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:36:14.442Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T04:36:16.262Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T04:36:16.308Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T04:36:16.315Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:36:16.317Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:36:16.317Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2119,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:36:17.355Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:36:24.702Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:36:24.804Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"module registration completed","time":"2017-02-09T04:36:24.847Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"access config","time":"2017-02-09T04:36:24.852Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:36:24.856Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:36:24.857Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:36:24.859Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T04:36:26.713Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T04:36:26.759Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T04:36:26.767Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:36:26.768Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:36:26.769Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2143,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:36:27.693Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T04:36:33.777Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T04:36:33.877Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"module registration completed","time":"2017-02-09T04:36:33.919Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"access config","time":"2017-02-09T04:36:33.924Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T04:36:33.928Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T04:36:33.929Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T04:36:33.930Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T04:36:35.760Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T04:36:35.806Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T04:36:35.812Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"transit from init to listen","time":"2017-02-09T04:36:35.814Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T04:36:35.815Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2168,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T04:36:36.751Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:22:48.482Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:22:48.578Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"module registration completed","time":"2017-02-09T05:22:48.628Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"access config","time":"2017-02-09T05:22:48.633Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T05:22:48.637Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T05:22:48.638Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T05:22:48.639Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T05:22:50.498Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T05:22:50.531Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T05:22:50.541Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"transit from init to listen","time":"2017-02-09T05:22:50.542Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T05:22:50.543Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2293,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T05:22:51.740Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:23:06.675Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:23:06.770Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"module registration completed","time":"2017-02-09T05:23:06.813Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"access config","time":"2017-02-09T05:23:06.817Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T05:23:06.821Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T05:23:06.822Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T05:23:06.824Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T05:23:08.676Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T05:23:08.709Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T05:23:08.717Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"transit from init to listen","time":"2017-02-09T05:23:08.719Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T05:23:08.720Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":2317,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T05:23:09.703Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8825,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:29:37.798Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8825,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:29:37.893Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8825,"level":30,"msg":"module registration completed","time":"2017-02-09T05:29:37.944Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8876,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:39:02.786Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8876,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:39:02.883Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8921,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:39:28.332Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8921,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:39:28.429Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8921,"level":30,"msg":"module registration completed","time":"2017-02-09T05:39:28.478Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:41:50.269Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:41:50.365Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"module registration completed","time":"2017-02-09T05:41:50.414Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"access config","time":"2017-02-09T05:41:50.425Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"loading config: {\"lang\":\"en\",\"stt-engine\":\"watson\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/humix-stt.json\",\"googleProjectName\":\"humix-stt\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T05:41:50.429Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T05:41:50.430Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"Using stt-engine:watson","time":"2017-02-09T05:41:50.432Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"loc":"WatsonSTT","level":30,"msg":"inited watson stt. Model: en-US_BroadbandModel","time":"2017-02-09T05:41:52.176Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T05:41:52.210Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T05:41:52.218Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"transit from init to listen","time":"2017-02-09T05:41:52.219Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T05:41:52.222Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T05:41:52.222Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"loc":"WatsonSTT","level":30,"msg":"Watson STT WS connected","time":"2017-02-09T05:41:53.380Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T05:42:22.972Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T05:42:22.973Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":8986,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T05:42:22.976Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:49:47.488Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:49:47.586Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"module registration completed","time":"2017-02-09T05:49:47.635Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"access config","time":"2017-02-09T05:49:47.647Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T05:49:47.651Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T05:49:47.652Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T05:49:47.654Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T05:49:50.582Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T05:49:50.617Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T05:49:52.234Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"transit from init to listen","time":"2017-02-09T05:49:52.236Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T05:49:52.239Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T05:49:52.240Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9067,"loc":"GoogleSTT","level":50,"msg":"failed to get google authclient. Error:Error: Unable to read the credential file specified by the GOOGLE_APPLICATION_CREDENTIALS environment variable. SyntaxError: Unexpected token \n","time":"2017-02-09T05:49:52.271Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T05:55:52.008Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T05:55:52.103Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"module registration completed","time":"2017-02-09T05:55:52.153Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"access config","time":"2017-02-09T05:55:52.164Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T05:55:52.169Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T05:55:52.170Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T05:55:52.172Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T05:55:55.051Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T05:55:55.085Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T05:55:56.640Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"transit from init to listen","time":"2017-02-09T05:55:56.642Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T05:55:56.644Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T05:55:56.645Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9144,"loc":"GoogleSTT","level":50,"msg":"failed to get google authclient. Error:Error: Unable to read the credential file specified by the GOOGLE_APPLICATION_CREDENTIALS environment variable. SyntaxError: Unexpected token \n","time":"2017-02-09T05:55:56.675Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T06:00:42.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:00:43.000Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"module registration completed","time":"2017-02-09T06:00:43.055Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"access config","time":"2017-02-09T06:00:43.066Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T06:00:43.070Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T06:00:43.071Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T06:00:43.073Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T06:00:45.996Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T06:00:46.031Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T06:00:47.635Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"transit from init to listen","time":"2017-02-09T06:00:47.637Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T06:00:47.639Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T06:00:47.640Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9202,"loc":"GoogleSTT","level":50,"msg":"failed to get google authclient. Error:Error: Unable to read the credential file specified by the GOOGLE_APPLICATION_CREDENTIALS environment variable. SyntaxError: Unexpected token \n","time":"2017-02-09T06:00:47.668Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T06:04:20.292Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:04:20.389Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"module registration completed","time":"2017-02-09T06:04:20.439Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"access config","time":"2017-02-09T06:04:20.450Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T06:04:20.455Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T06:04:20.456Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T06:04:20.458Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T06:04:23.376Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T06:04:23.411Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T06:04:25.043Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"transit from init to listen","time":"2017-02-09T06:04:25.045Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T06:04:25.048Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T06:04:25.049Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9267,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too fast. Please stream audio data approximately at real time.","time":"2017-02-09T06:04:29.990Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T06:05:29.646Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:05:29.742Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"module registration completed","time":"2017-02-09T06:05:29.795Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"access config","time":"2017-02-09T06:05:29.799Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T06:05:29.810Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T06:05:29.811Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T06:05:29.814Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T06:05:32.662Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T06:05:32.695Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T06:05:34.240Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"transit from init to listen","time":"2017-02-09T06:05:34.243Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T06:05:34.245Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T06:05:34.246Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T06:06:25.461Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T06:06:25.462Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T06:06:25.464Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Exceeded maximum allowed stream duration of 65 seconds.","time":"2017-02-09T06:06:40.082Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T06:06:51.214Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T06:06:51.215Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9328,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T06:06:51.216Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T06:12:05.978Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:12:06.075Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"module registration completed","time":"2017-02-09T06:12:06.127Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"access config","time":"2017-02-09T06:12:06.139Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T06:12:06.143Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T06:12:06.144Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T06:12:06.146Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T06:12:09.053Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T06:12:09.088Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T06:12:10.658Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"transit from init to listen","time":"2017-02-09T06:12:10.660Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T06:12:10.663Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T06:12:10.664Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too fast. Please stream audio data approximately at real time.","time":"2017-02-09T06:12:15.637Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T06:12:23.347Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T06:12:23.349Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T06:12:23.350Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T06:12:56.851Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T06:12:56.852Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9409,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T06:12:56.855Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T06:15:57.586Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:15:57.681Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"module registration completed","time":"2017-02-09T06:15:57.723Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"access config","time":"2017-02-09T06:15:57.728Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T06:15:57.738Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T06:15:57.739Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T06:15:57.741Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T06:16:00.589Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T06:16:00.623Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T06:16:02.158Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"transit from init to listen","time":"2017-02-09T06:16:02.160Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T06:16:02.163Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T06:16:02.164Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9435,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too fast. Please stream audio data approximately at real time.","time":"2017-02-09T06:16:06.296Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"creating HumixSense communication","time":"2017-02-09T06:16:46.270Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-09T06:16:46.365Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"module registration completed","time":"2017-02-09T06:16:46.408Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"access config","time":"2017-02-09T06:16:46.419Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-09T06:16:46.423Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"Conversation instance created.","time":"2017-02-09T06:16:46.424Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"Using stt-engine:google","time":"2017-02-09T06:16:46.426Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-09T06:16:49.276Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-09T06:16:49.310Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-09T06:16:50.850Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"transit from init to listen","time":"2017-02-09T06:16:50.852Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-09T06:16:50.854Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-09T06:16:50.855Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-09T06:17:06.069Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-09T06:17:06.071Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"level":30,"msg":"No activity. Sleep","time":"2017-02-09T06:17:06.072Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":9459,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Exceeded maximum allowed stream duration of 65 seconds.","time":"2017-02-09T06:17:56.697Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"creating HumixSense communication","time":"2017-02-10T07:14:32.319Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:14:32.439Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"module registration completed","time":"2017-02-10T07:14:32.488Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"access config","time":"2017-02-10T07:14:32.501Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-10T07:14:32.505Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Conversation instance created.","time":"2017-02-10T07:14:32.507Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Using stt-engine:google","time":"2017-02-10T07:14:32.510Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-10T07:14:37.210Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-10T07:14:37.250Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-10T07:14:40.099Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"transit from init to listen","time":"2017-02-10T07:14:40.102Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-10T07:14:40.105Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-10T07:14:40.106Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:14:40.647Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:14:40.649Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:14:40.650Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too slow. Please stream audio data approximately at real time.","time":"2017-02-10T07:14:56.433Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:14:57.023Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:14:57.024Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:14:57.025Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"creating HumixSense communication","time":"2017-02-10T07:15:40.723Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:15:40.820Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"module registration completed","time":"2017-02-10T07:15:40.869Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"access config","time":"2017-02-10T07:15:40.874Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-10T07:15:40.885Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Conversation instance created.","time":"2017-02-10T07:15:40.887Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Using stt-engine:google","time":"2017-02-10T07:15:40.889Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-10T07:15:43.825Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-10T07:15:43.859Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-10T07:15:45.445Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"transit from init to listen","time":"2017-02-10T07:15:45.447Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-10T07:15:45.450Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-10T07:15:45.451Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:15:46.113Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:15:46.114Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:15:46.116Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:15:48.116Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:15:48.117Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:15:48.119Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:15:51.113Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:15:51.114Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:15:51.115Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too slow. Please stream audio data approximately at real time.","time":"2017-02-10T07:16:07.313Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:16:07.988Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:16:07.989Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:16:07.990Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:16:10.238Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:16:10.239Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1343,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:16:10.240Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"creating HumixSense communication","time":"2017-02-10T07:18:21.923Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:18:22.021Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"module registration completed","time":"2017-02-10T07:18:22.075Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"access config","time":"2017-02-10T07:18:22.087Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-10T07:18:22.091Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Conversation instance created.","time":"2017-02-10T07:18:22.092Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Using stt-engine:google","time":"2017-02-10T07:18:22.095Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-10T07:18:25.013Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-10T07:18:25.045Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-10T07:18:26.649Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"transit from init to listen","time":"2017-02-10T07:18:26.651Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-10T07:18:26.654Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-10T07:18:26.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:27.300Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:27.301Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:27.302Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:28.800Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:28.801Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:28.801Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:32.050Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:32.051Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:32.052Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:35.676Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:35.677Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:35.677Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:37.926Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:37.928Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:37.929Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:39.679Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:39.680Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:39.681Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:41.425Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:41.426Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:41.427Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:44.426Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:44.426Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:44.427Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too slow. Please stream audio data approximately at real time.","time":"2017-02-10T07:18:53.723Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:18:54.425Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:18:54.426Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1420,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:18:54.427Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"creating HumixSense communication","time":"2017-02-10T07:22:20.311Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T07:22:20.425Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"module registration completed","time":"2017-02-10T07:22:20.474Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"access config","time":"2017-02-10T07:22:20.485Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-10T07:22:20.489Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Conversation instance created.","time":"2017-02-10T07:22:20.490Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Using stt-engine:google","time":"2017-02-10T07:22:20.491Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-10T07:22:25.092Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-10T07:22:25.133Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-10T07:22:27.971Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"transit from init to listen","time":"2017-02-10T07:22:27.973Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-10T07:22:27.975Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-10T07:22:27.976Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:22:28.531Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:22:28.532Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:22:28.533Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:22:30.781Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:22:30.781Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:22:30.782Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:22:39.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:22:39.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:22:39.657Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too slow. Please stream audio data approximately at real time.","time":"2017-02-10T07:22:43.831Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T07:22:44.531Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T07:22:44.532Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1047,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T07:22:44.533Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"creating HumixSense communication","time":"2017-02-10T13:47:32.188Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T13:47:32.286Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"module registration completed","time":"2017-02-10T13:47:32.336Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"access config","time":"2017-02-10T13:47:32.347Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-10T13:47:32.351Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Conversation instance created.","time":"2017-02-10T13:47:32.353Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Using stt-engine:google","time":"2017-02-10T13:47:32.355Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-10T13:47:35.220Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-10T13:47:35.252Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-10T13:47:36.800Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"transit from init to listen","time":"2017-02-10T13:47:36.802Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-10T13:47:36.804Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-10T13:47:36.805Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:47:37.507Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:47:37.508Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:47:37.510Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:47:39.007Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:47:39.009Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:47:39.009Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:47:44.260Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:47:44.261Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:47:44.262Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:47:46.883Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:47:46.883Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:47:46.884Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:47:49.385Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:47:49.386Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:47:49.387Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too slow. Please stream audio data approximately at real time.","time":"2017-02-10T13:48:03.924Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:48:04.758Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:48:04.759Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:48:04.759Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:48:13.382Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:48:13.383Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:48:13.384Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:48:16.506Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:48:16.507Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:48:16.508Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:48:20.257Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:48:20.257Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1282,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:48:20.258Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"creating HumixSense communication","time":"2017-02-10T13:53:12.782Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T13:53:12.880Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"module registration completed","time":"2017-02-10T13:53:12.931Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"access config","time":"2017-02-10T13:53:12.942Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-10T13:53:12.946Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Conversation instance created.","time":"2017-02-10T13:53:12.948Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Using stt-engine:google","time":"2017-02-10T13:53:12.949Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-10T13:53:15.866Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-10T13:53:15.900Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-10T13:53:17.518Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"transit from init to listen","time":"2017-02-10T13:53:17.521Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-10T13:53:17.523Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-10T13:53:17.524Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:18.279Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:18.281Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:18.283Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:20.654Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:20.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:20.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:22.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:22.905Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:22.906Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:25.405Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:25.406Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:25.407Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:27.905Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:27.906Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:27.907Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:30.154Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:30.155Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:30.156Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:33.405Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:33.406Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:33.406Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:35.030Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:35.031Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:35.031Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:36.530Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:36.532Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:36.533Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:38.654Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:38.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:38.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:41.154Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:41.155Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:41.156Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:43.404Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:43.405Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:43.406Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:46.279Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:46.280Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:46.281Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:48.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:48.906Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:48.907Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:50.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:50.905Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:50.906Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:53.154Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:53.155Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:53.156Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:55.530Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:55.531Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:55.532Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:57.653Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:57.654Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:57.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:53:59.779Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:53:59.780Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:53:59.781Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:02.029Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:02.030Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:02.031Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:04.654Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:04.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:04.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:07.654Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:07.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:07.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:10.403Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:10.406Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:10.407Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:17.903Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:17.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:17.905Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:20.278Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:20.279Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:20.280Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:22.528Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:22.530Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:22.530Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:24.403Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:24.403Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:24.404Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Exceeded maximum allowed stream duration of 65 seconds.","time":"2017-02-10T13:54:24.611Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:54:26.278Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:54:26.279Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1387,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:54:26.280Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"creating HumixSense communication","time":"2017-02-10T13:56:23.223Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"using config: {\"moduleName\":\"humix-conversation-module\",\"commands\":[\"tts\"],\"events\":[\"stt\"],\"log\":{\"file\":\"humix-conversation-module.log\",\"fileLevel\":\"info\",\"consoleLevel\":\"debug\"}}","time":"2017-02-10T13:56:23.319Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"module registration completed","time":"2017-02-10T13:56:23.363Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"access config","time":"2017-02-10T13:56:23.375Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"loading config: {\"lang\":\"cht\",\"stt-engine\":\"google\",\"tts-engine\":\"watson\",\"stt\":{\"watson\":{\"username\":\"c8090707-bcda-49e0-98f9-172c40420c1a\",\"passwd\":\"cZGWayUpvsSJ\"},\"google\":{\"username\":\"\",\"passwd\":\"\",\"googleCredentialFile\":\"/home/pi/.humix/stt.json\",\"googleProjectName\":\"api-project-400451087256\",\"googleLan\":\"cmn-Hant-TW\"}},\"tts\":{\"watson\":{\"username\":\"8e0177e5-f735-4861-bf51-b164cb6e26e2\",\"passwd\":\"9CeX6rQkqJ0P\"},\"iflytek\":{\"appid\":\"<app_id>\"},\"itri\":{\"username\":\"as93717913\",\"passwd\":\"adsl852\",\"speaker\":\"Bruce\"}}}","time":"2017-02-10T13:56:23.379Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Conversation instance created.","time":"2017-02-10T13:56:23.380Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Using stt-engine:google","time":"2017-02-10T13:56:23.382Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"GoogleSTT","level":30,"msg":"inited google stt. Model: cmn-Hant-TW","time":"2017-02-10T13:56:26.239Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Using tts-engine:watson","time":"2017-02-10T13:56:26.272Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"WatsonTTS","level":30,"msg":"inited watson tts","time":"2017-02-10T13:56:27.764Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"transit from init to listen","time":"2017-02-10T13:56:27.766Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"Microphone resumed","time":"2017-02-10T13:56:27.769Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Communication with humix-sense is now ready.","time":"2017-02-10T13:56:27.769Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:28.604Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:28.605Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:28.606Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:29.902Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:29.903Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:29.903Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:33.527Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:33.528Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:33.529Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:36.152Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:36.152Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:36.153Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:38.903Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:38.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:38.905Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:41.655Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:41.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:41.656Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:44.027Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:44.028Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:44.029Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:46.277Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:46.278Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:46.279Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:49.027Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:49.027Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:49.028Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:51.027Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:51.028Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:51.029Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:53.276Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:53.277Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:53.278Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:55.777Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:55.778Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:55.778Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:56:57.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:56:57.904Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:56:57.905Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"GoogleSTT","level":50,"msg":"err catch Error: Audio data is being streamed too slow. Please stream audio data approximately at real time.","time":"2017-02-10T13:57:23.445Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"loc":"mic","level":30,"msg":"emit silicne event","time":"2017-02-10T13:57:24.403Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"Got SIGNAL silence","time":"2017-02-10T13:57:24.404Z","v":0}
+{"name":"humix-conversation-module","hostname":"raspberrypi","pid":1411,"level":30,"msg":"No activity. Sleep","time":"2017-02-10T13:57:24.405Z","v":0}
